@@ -1,0 +1,9 @@
+__pycache__/
+*.pyc
+flink-job/target/
+models/
+profiles/
+logs/
+*.joblib
+*.pt
+*.csv

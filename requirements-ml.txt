@@ -1,0 +1,5 @@
+# offline profiling and training, and the engine servers
+-r requirements.txt
+torch>=2.1
+transformers>=4.40
+accelerate>=0.26
